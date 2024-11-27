@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -n "Enter Your Name: "
+read userName
+echo "Your name is $userName."
